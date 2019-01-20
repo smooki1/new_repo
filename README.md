@@ -1,2 +1,2 @@
-# Test
-Adding new setence into fist commit
+# Test \n
+# Adding new sentence inside if the first commit !!!
